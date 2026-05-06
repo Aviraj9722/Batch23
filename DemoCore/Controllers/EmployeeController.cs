@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 
 namespace DemoCore.Controllers
-{
+{ 
     public class EmployeeController : Controller
     {
         public IActionResult Index()
